@@ -44,7 +44,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://mastersubhajit.com)
+➡️ [more blog posts...](https://mastersubhajit.com/blog.html)
 
 ---
 
