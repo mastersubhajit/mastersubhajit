@@ -1,6 +1,6 @@
 ### Hi there, I'm Master Subhajit Ghosh - aka [mastersubhajit][website] 👋
 
-[![Website](https://mastersubhajit.com/assets/favicon.svg)](https://mastersubhajit.com)
+[![Website](https://mastersubhajit.com/assets/favicon.ico)](https://mastersubhajit.com)
 
 ## I'm an Ethical Hacker, Bug Hunter, Developer, and a Student!!
 
@@ -64,4 +64,4 @@
 
 </details>
 
-[website]: https://mastersubhajit.com
+[website]: https://mastersubhajit.com/
