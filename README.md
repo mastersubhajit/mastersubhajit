@@ -1,4 +1,4 @@
-[![MasterHead](https://mastersubhajit.com/assets/images/IMPROVING TECH.png)](https://mastersubhajit.com)
+[![MasterHead](https://mastersubhajit.com/assets/images/IMPROVING%20TECH.png)](https://mastersubhajit.com)
 <h1 align="center">Hi 👋, I'm Master Subhajit Ghosh</h1>
 <h3 align="center">I am a passionate Cybersecurity & Blockchain enthusiast from India.</h3>
 
