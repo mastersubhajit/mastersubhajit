@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Master Subhajit Ghosh</h1>
 <h3 align="center">An Aspiring iOS Developer, Cybersecurity and IOT Engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mastersubhajit&label=Profile%20views&color=0e75b6&style=flat" alt="mastersubhajit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastersubhajit" alt="mastersubhajit" /></a> </p>
-
 - 🔭 I’m currently working on [ClassEra](https://classera.in/)
 
-- 🌱 I’m currently learning **Solidity, C**
+- 🌱 I’m currently learning **Solidity**
 
-- 👯 I’m looking to collaborate on **iOS Development**
+- 👯 I’m looking to collaborate on **iOS App Development**
 
 - 👨‍💻 All of my projects are available at [mastersubhajit.com](mastersubhajit.com)
-
-- 💬 Ask me about **html, SwiftUI, JSON, Shell**
 
 - 📫 How to reach me **hello@mastersubhajit.com**
 
