@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/embed/RitMhIt2J0VemiErqV)
+![MasterHead]([https://giphy.com/embed/RitMhIt2J0VemiErqV](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Flo-fi-aesthetic-gifs%2F&psig=AOvVaw2lOazl1NsDM51jIlLkwLDo&ust=1683843104238000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICHrcLi6_4CFQAAAAAdAAAAABAR))
 
 <h1 align="center">Hi 👋, I'm Master Subhajit Ghosh</h1>
 <h3 align="center">An Aspiring iOS Developer, Cybersecurity and IOT Engineer from India.</h3>
