@@ -1,22 +1,20 @@
 [![MasterHead](https://mastersubhajit.com/assets/images/IMPROVING%20TECH.png)](https://mastersubhajit.com)
 <h1 align="center">Hi 👋, I'm Master Subhajit Ghosh</h1>
-<h3 align="center">I am a passionate Cybersecurity & Blockchain enthusiast from India.</h3>
+<h3 align="center">A Cybersecurity and IOT Engineer from India.</h3>
 
-- 🔭 I’m currently working on [CyberDrone](https://github.com/mastersubhajit/CyberDrone)
+- 🏗️ I’m currently building [ClassEra](https://classera.in/)
 
-- 🌱 I’m currently learning **Solidity, Java etc.**
+- 🌱 I’m currently working with **SwiftUI, JSON etc.**
 
-- 👯 I’m looking to collaborate on **IOT projects**
+- 🤝 I’m looking to collaborate on **iOS projects**
 
-- 🤝 I’m looking for help with [webConverter.py](https://github.com/mastersubhajit/CyberDrone/tree/master/utils/web_converter)
-
-- 💬 Ask me about **CyberDrone**
+- 💬 Ask me **anything**
 
 - 📫 How to reach me **hello@mastersubhajit.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mastersubhajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mastersubhajit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mastersubhajit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mastersubhajit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
