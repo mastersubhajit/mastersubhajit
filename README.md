@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Master Subhajit Ghosh</h1>
 <h3 align="center">An Aspiring iOS Developer, Cybersecurity and IOT Engineer from India.</h3>
 
-- 🔭 I’m currently working at [ClassEra](https://classera.in/)
+- 🔭 I’m currently working for [ClassEra](https://classera.in/)
 
 - 🌱 I’m currently learning **Solidity**
 
