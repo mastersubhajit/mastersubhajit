@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/mastersubhajit)
 
-- 📫 How to reach me **hello@mastersubhajit.com**
+- 📫 How to reach me **hello@mastersubhajit.com** or through [LinkedIn](https://www.linkedin.com/in/mastersubhajit/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
