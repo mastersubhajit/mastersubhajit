@@ -27,6 +27,6 @@
 <h3 align=center>Contributions</h3>
 
 <div align="left">
-<img src="img/profile-night-rainbow.svg" height="500" alt="Profile Contribution">
+<img src="profile-3d-contrib/profile-night-rainbow.svg" height="500" alt="Profile Contribution">
 </div>
 
