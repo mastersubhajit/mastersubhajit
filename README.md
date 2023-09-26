@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Master Subhajit Ghosh</h1>
 <h3 align="center">An Aspiring iOS Developer, Cybersecurity and IOT Engineer from India.</h3>
 
-- 🔭 I’m currently working for [ClassEra](https://classera.in/)
+- 🔭 I’m currently working on my [Portfolio](https://mastersubhajit.com/)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **iOS App Development**
+- 👯 I’m looking to collaborate with **CyberSecurity Researchers**
 
-- 👨‍💻 All of my projects are available at [mastersubhajit.com](mastersubhajit.com)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/mastersubhajit)
 
 - 📫 How to reach me **hello@mastersubhajit.com**
 
@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastersubhajit&show_icons=true&locale=en" alt="mastersubhajit" /></p>
 
-<h3 align=center>Contributions</h3>
+<h3 align="left">Contributions</h3>
 
 <div align="left">
 <img src="profile-3d-contrib/profile-night-rainbow.svg" height="500" alt="Profile Contribution">
