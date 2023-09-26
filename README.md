@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/mastersubhajit/mastersubhajit/blob/823d4e620ccd465475ecf36d827b5a6f859df644/.github/workflows/asthetic.gif)
 
 <h1 align="center">Hi 👋, I'm Master Subhajit Ghosh</h1>
-<h3 align="center">An Aspiring **Cybersecurity Researcher** and **IOT Engineer** from India.</h3>
+<h3 align="center">An Aspiring Cybersecurity Researcher and IOT Engineer from India.</h3>
 
 - 🔭 I’m currently working on my [Portfolio](https://mastersubhajit.com/)
 
