@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/mastersubhajit/mastersubhajit/blob/823d4e620ccd465475ecf36d827b5a6f859df644/.github/workflows/asthetic.gif)
 
 <h1 align="center">Hi 👋, I'm Master Subhajit Ghosh</h1>
-<h3 align="center">An Aspiring Cybersecurity Researcher and IOT Engineer from India.</h3>
+<h3 align="center">I'm currently experimenting with AI.</h3>
 
 - 🔭 I’m currently working on my [Portfolio](https://mastersubhajit.com/)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate with **CyberSecurity Researchers**
+- 👯 I’m looking to collaborate with **AI Researchers**
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/mastersubhajit)
 
